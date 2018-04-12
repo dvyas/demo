@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+        assetId: '0',
+        name: 'US-L-7890',
+        role: 'Workstation',
+        lastUpdate: '2014-02-08 09:30:26',
+        domain: 'americas.abb.com'
+    }, {
+        assetId: '1',
+        name: 'US-M-7890',
+        role: 'Printer',
+        lastUpdate: '2013-02-27 02:51:11',
+        domain: 'americas.abb.com'
+    }, {
+        assetId: '2',
+        name: 'US-J-1234',
+        role: 'Router',
+        lastUpdate: '2015-02-08 09:30:22',
+        domain: 'americas.abb.com'
+    }, {
+        assetId: '3',
+        name: 'US-Z-3456',
+        role: 'WiMon',
+        lastUpdate: '2013-11-04 11:30:34',
+        domain: 'americas.abb.com'
+    }
