@@ -1,4 +1,4 @@
-{
+[{
         assetId: '0',
         name: 'US-L-7890',
         role: 'Workstation',
@@ -22,4 +22,4 @@
         role: 'WiMon',
         lastUpdate: '2013-11-04 11:30:34',
         domain: 'americas.abb.com'
-    }
+    }]
